@@ -46,7 +46,7 @@ h3{
     font-size: 25px;
 }
 #img2{
-    width: 25%;
+    width: 22%;
     padding-left: 5%;
     padding-top: 5%;
 }
@@ -55,6 +55,20 @@ h3{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-section{
-    height: 500px;
+
+.text3{
+    text-align: center;
+    size: 40px;
 }
+.section3{
+    float:left;
+    margin: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 220px;
+
+}
+.single-ex{
+    margin:20px;
+}
+
