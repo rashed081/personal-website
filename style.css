@@ -1,0 +1,60 @@
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin: 0%;
+}
+h3{
+    font-size: 40px;
+}
+
+#name1{
+    font-family: 'Style Script', cursive;
+    color: coral;
+}
+.top-banner{
+    width: 40%;
+    padding-left:5%;
+    padding-top: 5%;
+    margin-left:5% ;
+    float: left;
+    font-size: 25px;
+}
+#img1{
+    width: 25%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+#hire-me{
+    text-decoration: none;
+    background-color:orangered;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+
+
+}
+.section1{
+    background-image: url(images/background1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.middle-banner{
+    width: 40%;
+    padding-right:5%;
+    padding-top: 5%;
+    margin-right:5% ;
+    float: right;
+    font-size: 25px;
+}
+#img2{
+    width: 25%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.section2{
+    background-image: url(images/background2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 500px;
+}
